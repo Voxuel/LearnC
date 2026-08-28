@@ -13,6 +13,8 @@ int main() {
 	int n = 10;
 	int m = n >> 2;
 	int p = n ^ 2;
+	char pass[100];
+	
 	printf("%d\n", m);
 	printf("%d\n", p);
 	return 0;
