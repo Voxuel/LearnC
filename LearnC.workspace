@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="LearnC" Database="" Version="10000">
   <Project Name="LearnCArrays" Path="LearnCArrays/LearnCArrays.project" Active="Yes"/>
+  <Project Name="Crypto" Path="Crypto/Crypto.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="LearnCArrays" ConfigName="Debug"/>
+      <Project Name="Crypto" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="LearnCArrays" ConfigName="Release"/>
+      <Project Name="Crypto" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
